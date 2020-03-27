@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FilenameObfuscator": {
+      "commandName": "Project",
+      "commandLineArgs": "obfuscate -dlogs -mmap"
+    }
+  }
+}
