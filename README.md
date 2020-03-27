@@ -24,4 +24,4 @@ FilenameObfuscator deobfuscate --help
 
  ## Visualization
 
-![Usage](images\usage.png)
+![Usage](images/usage.png)
